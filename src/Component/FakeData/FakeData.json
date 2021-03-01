@@ -1,0 +1,127 @@
+[{
+  "id": 1,
+  "name": "Chris Gayle",
+  "role": "Batsman",
+  "country": "West Indies",
+  "salary": 7050,
+  "img": "https://i.ibb.co/8mtPm5B/gyle.jpeg"
+}, {
+  "id": 2,
+  "name": "MS Dhoni",
+  "role": "Wicket Keeper & Batsman",
+  "country": "India",
+  "salary": 1935,
+  "img": "https://i.ibb.co/68p1Z8m/dhoni.jpg"
+}, {
+  "id": 3,
+  "name": "Shakib Al Hasan",
+  "role": "All-Rounder",
+  "country": "Bangladesh",
+  "salary": 5191,
+  "img": "https://i.ibb.co/phpqHJz/shakib.jpeg"
+}, {
+  "id": 4,
+  "name": "AB de Villiers",
+  "role": "Wicket Keeper & Batsman",
+  "country": "Australia",
+  "salary": 4132,
+  "img": "https://i.ibb.co/j3bgvPL/abc.jpg"
+}, {
+  "id": 5,
+  "name": "Rohit Sharma",
+  "role": "Batsman",
+  "country": "India",
+  "salary": 5219,
+  "img": "https://i.ibb.co/MP13rzC/rohit.jpeg"
+}, {
+  "id": 6,
+  "name": "Tamim Iqbal",
+  "role": "Batsman",
+  "country": "Bangladesh",
+  "salary": 7119,
+  "img": "https://i.ibb.co/RgHJMv4/tamim.png"
+}, {
+  "id": 7,
+  "name": "Imran Tahir",
+  "role": "Bowler",
+  "country": "South Africa",
+  "salary": 6118,
+  "img": "https://i.ibb.co/JcMx3v1/imran.jpg"
+}, {
+  "id": 8,
+  "name": "Tom Curran",
+  "role": "All-Rounder",
+  "country": "England",
+  "salary": 5239,
+  "img": "https://i.ibb.co/tCdC8Zq/tom.jpg"
+}, {
+  "id": 9,
+  "name": "Sunil Narine",
+  "role": "All-Rounder",
+  "country": "West Indies",
+  "salary": 5698,
+  "img": "https://i.ibb.co/HXr3JL2/sunil.jpg"
+}, {
+  "id": 10,
+  "name": "Andre Russell",
+  "role":  "All-Rounder",
+  "country": "West Indies",
+  "salary": 5723,
+  "img": "https://i.ibb.co/DRmt286/russel.jpg"
+}, {
+  "id": 11,
+  "name": "Virat Kohli",
+  "role": "Batsman",
+  "country": "India",
+  "salary": 6621,
+  "img": "https://i.ibb.co/QJ1QqH7/viratt.jpeg"
+}, {
+  "id": 12,
+  "name": "David Miller",
+  "role": "Batsman",
+  "country": "South Africa",
+  "salary": 2411,
+  "img": "https://i.ibb.co/nk14SjS/david.jpg"
+}, {
+  "id": 13,
+  "name": "Mustafizur Rahman",
+  "role": "Bowler",
+  "country": "Bangladesh",
+  "salary": 8970,
+  "img": "https://i.ibb.co/VJ0dWWg/fiz.jpeg"
+}, {
+  "id": 14,
+  "name": "David Warner",
+  "role": "Batsman",
+  "country": "Australia",
+  "salary": 3648,
+  "img": "https://i.ibb.co/M29wYjd/war.jpeg"
+}, {
+  "id": 15,
+  "name": "Rashid Khan",
+  "role": "Bowler",
+  "country": "Afghanistan",
+  "salary": 1383,
+  "img": "https://i.ibb.co/KFbXwC2/rashid.jpg"
+}, {
+  "id": 16,
+  "name": "Sam Curran",
+  "role": "All-Rounder",
+  "country": "England",
+  "salary": 4913,
+  "img": "https://i.ibb.co/s3zJyFD/sam.jpeg"
+}, {
+  "id": 17,
+  "name": "Mushfiqur Rahim",
+  "role": "Wicket Keeper & Batsman",
+  "country": "Bangladesh",
+  "salary": 8255,
+  "img": "https://i.ibb.co/sgpBYym/mushi.jpg"
+}, {
+  "id": 18,
+  "name": "Mahmudullah Riaz",
+  "role": "All-Rounder",
+  "country": "Bangladesh",
+  "salary": 7048,
+  "img": "https://i.ibb.co/xmrYn0L/mah.jpg"
+}]

@@ -1,0 +1,23 @@
+.addedPlayers{
+    margin-top: 30px;
+    border: 1px solid blue;
+    background-color: rgb(162, 223, 162);
+    border-radius: 7px;
+}
+h2{
+    text-align: center;
+}
+li{
+    color: white;
+    margin-right: 30px; 
+    font-weight: 600; 
+    font-size: 18px;
+    border-bottom: 1px solid red;
+}
+ol{
+    background-color: blue;
+}
+h4{
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+.header-content{
+    width: 100vw;
+    /* height: 100vh; */
+}
+.header{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Monoton', cursive;
+}
+.header h1{
+    padding-top: 10px;
+    font-size: 40px;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+    font-weight: 550;
+}
+.header img{
+    width: 150px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(rgb(245, 191, 12), rgb(235, 130, 81));
+}
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+    font-weight: 600;
+}
+nav a:hover{
+    background-color: white;
+    color: black;
+}
