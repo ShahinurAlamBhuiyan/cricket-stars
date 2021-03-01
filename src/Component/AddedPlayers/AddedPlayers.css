@@ -21,3 +21,12 @@ h4{
     color: red;
     text-align: center;
 }
+.confirmBtn{
+    margin-left: 160px;
+    margin-bottom: 10px;
+    color: black;
+}
+.confirmBtn:focus{
+    background: green;
+    color: white;
+}
